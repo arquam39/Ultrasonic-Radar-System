@@ -4,7 +4,7 @@ const int echoPin = 9;
 // defining time and distance
 long duration;
 int distance;
-Servo myServo; // Object servo
+Servo myServo; // Object servo 
 void setup() {
   pinMode(trigPin, OUTPUT); // trigPin as an Output
   pinMode(echoPin, INPUT); // echoPin as an Input
