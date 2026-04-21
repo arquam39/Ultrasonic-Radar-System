@@ -8,7 +8,7 @@ This project demonstrates how sensors can be used to detect obstacles and measur
 
 ## 🎯 Project Objectives
 
-* Detect objects using ultrasonic sensors
+* Detect objects using ultrasonic sensors 
 * Measure distance accurately
 * Visualize object detection similar to a radar system
 * Understand sensor-based systems
