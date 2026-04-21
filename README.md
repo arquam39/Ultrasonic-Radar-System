@@ -4,7 +4,7 @@ The **Ultrasonic Radar System** is a project that detects objects using ultrason
 
 This project demonstrates how sensors can be used to detect obstacles and measure distances.
 
----
+--- 
 
 ## 🎯 Project Objectives
 
